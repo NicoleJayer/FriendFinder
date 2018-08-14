@@ -15,6 +15,12 @@ body {
   padding-bottom: 80px; */
 }
 
+#title {
+  font-family: 'Indie Flower', cursive;
+  color: white;
+  font-size: 100px;
+}
+
 .select {
   color: black;
   text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
@@ -33,4 +39,8 @@ h3 {
 h5 {
   color: white;
   text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
+}
+
+button {
+  margin-top: 20px;
 }
