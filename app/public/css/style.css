@@ -22,6 +22,20 @@ body {
   margin-top: 10px;
 }
 
+#hometitle {
+  border-bottom: 10px;
+  border-style: solid;
+  border-color: white;
+  text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
+}
+
+#intro {
+  color: white;
+  font-size: 40px;
+  border-color: white;
+  text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
+}
+
 .select {
   color: black;
   text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
@@ -53,4 +67,8 @@ button {
 a {
   padding-right: 20px;
   padding-left: 20px;
+}
+
+#surveyButton {
+  font-size: 20px;
 }
