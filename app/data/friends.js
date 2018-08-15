@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Lorelai Gilmore',
+		photo: 'http://1huf4c2navwc2gbyiv1egkwl.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/Lorelai-Gilmore-lorelai-gilmore-24368445-1024-768-1024x768.png',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Luke Danes',
+		photo: 'https://vignette.wikia.nocookie.net/gilmoregirls/images/7/79/Lukes1still.jpeg/revision/latest?cb=20160317024922',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Jess Mariano',
+		photo: 'https://vignette.wikia.nocookie.net/gilmoregirls/images/d/df/109064916_cebba0445d.jpg/revision/latest?cb=20160629160733',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Emily Gilmore',
+		photo: 'https://vignette.wikia.nocookie.net/gilmoregirls/images/c/c8/Emilypromo.jpeg/revision/latest?cb=20160817205223',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Logan Huntzberger',
+		photo: 'https://vignette.wikia.nocookie.net/gilmoregirls/images/4/42/Logan1.jpg/revision/latest/top-crop/width/320/height/320?cb=20160212003210',
 		scores: [
 			'1',
 			'1',
@@ -81,8 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'Paris Geller',
+		photo: 'https://vignette.wikia.nocookie.net/gilmoregirls/images/7/77/Parisgeller.jpeg/revision/latest?cb=20160602012021',
 		scores: [
 			'1',
 			'1',
@@ -97,8 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'Richard Gilmore',
+		photo: 'https://cdn.theatlantic.com/assets/media/img/mt/2014/12/richard/lead_720_405.jpg?mod=1533691720',
 		scores: [
 			'5',
 			'4',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Sookie St. James',
+		photo: 'https://www.simplemost.com/wp-content/uploads/2016/04/Melissa-McCarthy-Sookie-750x500.jpeg',
 		scores: [
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Lane Kim',
+		photo: 'https://vignette.wikia.nocookie.net/gilmoregirls/images/7/7a/220lane.jpeg/revision/latest?cb=20170111121007',
 		scores: [
 			'1',
 			'1',
