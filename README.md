@@ -8,7 +8,7 @@ The application uses node.js and express for the back end work, and jquery, java
 
 **About Friend Finder**
 
-I chose a Gilmore girls theme for this project because I wanted to highlight a show that is near and dear to my heart. I find that when I am passionate about the subject matter, it makes the whole process a lot of fun. This was definitely the most challenges assignment we have had to tackle to-date, but I think with the help of classmates, and references of previous projects, I was able to put together a nice finished product.
+I chose a Gilmore girls theme for this project because I wanted to highlight a show that is near and dear to my heart. I find that when I am passionate about the subject matter, it makes the whole process a lot of fun. This was definitely the most challenging assignment we have had to tackle to-date, but I think with the help of classmates, and references of previous projects, I was able to put together a nice finished product.
 
 **Application DEMO**
 
