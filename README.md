@@ -12,7 +12,7 @@ I chose a Gilmore girls theme for this project because I wanted to highlight a s
 
 **Application DEMO**
 
-Part of this assignments requirements was to deploy the application to Heroku. You can check out the program here: https://frozen-gorge-85082.herokuapp.com/
+Part of the assignment requirements was to deploy the application to Heroku. You can check out the program here: https://frozen-gorge-85082.herokuapp.com/
 
 ---------------
 
